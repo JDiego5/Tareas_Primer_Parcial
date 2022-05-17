@@ -1,0 +1,141 @@
+UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
+
+Nombres: Juan Diego Gutierrez.            NRC: 7309           Fecha: 15-05-2022
+
+                                  INFORME TAREA Nro. 1
+Objetivos: 
+a) Objetivo General:
+
+    1. Analizar los conceptos voltaje, corriente y resistencia, mediante la comprensión
+    de sus unidades correspondientes. 
+
+b) Objetivos específicos:
+
+    1. Reconocer el uso de los unidades de medición para sus aplicaciones.
+    2. Comprender los tipos de notacion científica en la ingenieria.
+    3. Determinar las unidades en la corriente, voltaje y resistencia. 
+    4. Establecer las formulas (con sus respectivas unidades) de corriente, voltaje y resistencia.
+
+MARCO TEORICO
+
+1. Cantidades y Unidades. 
+
+c) Unidades de Medición.
+
+En el Sistema Internacional (SI), podemos encontrar que consta de siete unidades fundamentales y dos
+unidades complementarias. En su totalidad las mediciones que se realicen pueden ser de una combinación
+de unidades tanto fundamentales como complementarias. Dentro de las mediciones eléctricas podemos
+encontrar al ampere como unidad fundamental, es utilizada para medir la corriente eléctrica. El resto
+de unidades eléctricas y magnéticas son utilizadas por varias combinaciones de unidades fundamentales.
+
+Para poder identificar las diferentes unidades y cantidades, se representan mediante símbolos literales. 
+Es decir, se utiliza un símbolo para conocer la cantidad y otro diferente para conocer la unidad de medición
+de dicha cantidad. Un ejemplo puede ser la potencia, que se representa con la letra P y el watt, que
+es la unidad de medición de la potencia y se representa con la letra W.
+
+d) Notacion Científica.
+
+La notación científica nos da una manera de resolver problemas con cantidades muy grandes o cantidades extremadamente 
+pequeñas. En notación científica una cantidad debe estar expresada con un número del 1 al 10 y una potencia de 10.
+Por ejemplo, el número 245.000 en notación científica esta expresado como 2,45x10^6 o el numero 0.00063 como 6.3x10^-4.
+Una potencia de diez, se manifiesta como un exponente de base 10 (10^X). El exponente es el número el cual se eleva la
+potencia, indica la cantidad de lugares que se mueve si es exponente positivo se mueve a la derecha y si es exponente
+negativo se mueve a la izquierda. 
+
+Una gran ventaja de la notación científica es la posibilidad de realizar operaciones básicas, ya sea de números o muy 
+grande o muy pequeños.
+
+e) Notacion de ingenieria.
+
+La notación de ingeniería, se utiliza de manera frecuente en los campos técnicos para poder representar cantidades grandes
+o pequeñas. En el campo de la electrónica, la notación de ingeniería se emplea para representar valores como voltaje, corriente,
+potencia, resistencia entre otros. Por ejemplo, 42.000 expresado en notación de ingeniería sería 42x10^3, pero en notación 
+científica se expresa como 4.2x10^4. Otro ejemplo, el número 0.033 en notacion de ingenieria seria 33x10^-3, sin embargo en 
+notacion científica se expresa 3.3x10^-4. 
+
+Los prefijos métricos son muy utiizados en la notacion de ingenieria, estos represenatan cada una de las potencias de 10 más 
+comunmente utilizadas. A continuacion los más utilizados: 
+
+Prefijos metricos   |Simbolo  | Potencia de diez | Valor                   |
+--------------------|---------|------------------|-------------------------|
+       femto        |    f    |      10^-15      |  Un mil billonésimo     |
+       pico         |    p    |      10^-12      |  Un billonésimo         |
+       nano         |    n    |      10^-9       |  Un mil millonésimo     |
+       micro        |    µ    |      10^-6       |  un millonésimo         |
+       mili         |    m    |      10^-3       |  Un milésimo            |
+       kilo         |    k    |      10^3        |  Un mil                 |
+       mega         |    M    |      10^6        |  Un millón              |
+       giga         |    G    |      10^9        |  Un mil millones        |
+       tera         |    T    |      10^12       |  Un billón              |
+
+f) Conversion de unidades.
+
+En muchas ocasiones se nos presenta el problema de convertir la cantidad de una unidad con un prefijo métrico específico a otro,
+por lo que debemos recorrer el punto decimal a la izquierda o la derehca segun sea el caso para obtener la cantidad deseada. Para
+este proceso podemos encontrar reglas basicas aplicables a conversiones de unidades métricas:
+
+    1. Cuando covertimos una cantidad grande a pequeña, trasladamos el punto decimal a la derecha. 
+    2. Cuando covertimos una cantidad pequeña a grande, trasladamos el punto decimal a la izquierda.
+    3. Podemos determinar el numero de puestos que debemos recorrer encontrando la diferencia en las potencias de diez.
+
+2. Voltaje, Corriente y Resistencia. 
+
+a) Estructura atómica.
+
+Todo a nuestro alrededor, está hecho de materia, pero esta materia está hecha por átomos, a su vez los átomos se componen de electrones,
+protones y neutrones. El átomo es la partícula más pequeña de un elemento, de los 109 elementos conocidos cada uno tiene átomos que son
+diferentes al resto, por consiguiente esto hace que cada elemento tenga una estructura atómica diferente y única. Cada tipo de átomo tiene
+un cierto número de electrones que y protones que los distingue del resto de elementos.
+
+NUMERO ATÓMICO
+
+El número atómico es igual al número de protones que tiene presentes en el núcleo del átomo. Por ejemplo, el número atómico del hidrógeno 
+es el 1 y el del helio es el 2, pero en estado normal, todos los átomos de un elemento dado tienen el mismo número de electrones y protones.
+
+CAPAS, ÓRITAS Y NIVELES DE ENERGÍA
+
+Los electrones describen orbitas alrededor del núcleo, estas tienen unas ciertas distancias al núcleo. Cada orbita corresponde a un nivel de 
+energía diferente, esto se le conoce como capa. Estas son designadas con 1, 2, 3 y así sucesivamente. La capa más cerca al núcleo es la 1,
+y los electrones que están en las capas más alejadas del núcleo están a niveles de energía más altos.
+
+ELECTRONES DE VALENCIA
+
+Los electrones que están más alejados del núcleo están dotados de más energía y por lo tanto se encuentran menos estrechamente ligados al
+átomo que los que están en las primeras capas. La fuerza de atracción disminuye debido a que el núcleo positivamente cargado y el electrón 
+negativamente cargado se encuentran a una distancia más alejada. La capa donde se encuentran los electrones más alejados del núcleo, se la 
+conoce como capa de valencia y por consiguiente los electrones de dicha capa se llaman electrones de valencia.
+
+NIVELES DE ENERGÍA Y ENERGÍA DE IONIZACIÓN
+
+Consideremos el caso de que un electrón absorbe un fotón, que tenga energía suficiente para que el átomo escape y se convierta en un 
+electrón libre. En el momento en que un electrón escapa y permanece con carga neta se le conoce como ION. Por ejemplo; cuando un 
+electrón escapa del átomo de hidrogeno neutro, el átomo queda con una carga positiva y por lo tanto se convierte en un ion positivo.
+Por otro lado uno o varios átomos pueden adquirir un electrón por lo que se vuelve un ion negativo.
+
+CATEGORIAS DE MATERIALES 
+
+Conductores: Son aquellos que permiten el paso de una corriente eléctrica. Tienen una gran cantidad de electrones libres y una de sus 
+             características es que poseen de uno a tres electrones de valencia en su estructura. La gran mayoría de los metales son 
+             buenos conductores, pero el mejor material conductor es la plata seguido del cobre. Este último es el más utilizado ya 
+             que es más barato que la plata.
+             
+Semiconductores: Están clasificados por debajo de los conductores, debido a que tienen una menor cantidad de electrones libres. Por lo
+                 general tienen 4 electrones de valencia en sus estructuras atómicas, pero gracias a sus características únicas, ciertos
+                 materiales semiconductores constituyen la base de artefactos electrónicos. Ejemplos de materiales conductores son el
+                 silicio y el germanio.
+
+Aislantes: Estos se caracterizan por tener deficiencia en pasar la corriente eléctrica, generalmente los aislantes son usados para evitar
+           la corriente donde no es deseada. Otra característica destacable es que tienen muy pocos electrones libres y tienen más de cuatro
+           electrones de valencia.
+           
+b) Carga Eléctrica
+
+La carga de un proton y un electrón son iguales en magnitud 
+
+
+
+
+
+
+
+
