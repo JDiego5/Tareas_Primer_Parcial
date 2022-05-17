@@ -130,11 +130,30 @@ Aislantes: Estos se caracterizan por tener deficiencia en pasar la corriente el�
            
 b) Carga Eléctrica
 
-La carga de un proton y un electrón son iguales en magnitud 
+La carga de un protón y un electrón son iguales en magnitud, la carga eléctrica es una propiedad eléctrica de la materia que existe según el 
+exceso o ausencia de electrones, es simbolizada con la letra Q. La carga eléctrica se mide en coulomb, simbolizados con la letra C.
+Un coulomb es la carga total de 6.25x10^18 electrones, pero un solo electrón tiene de carga 1.6x10^-19. 
+
+La carga total (Q), dada en coulomb, de un numero dado de electrones esta dado por la ecuación:
+
+                                      Numero de electrones
+                                Q = -------------------------
+                                    6.25x10^18 (electrones/C)
+
+CARGA POSITIVA Y CARGA NEGATIVA
+
+Consideremos un atomo neutro (que tiene el mismo número de electrones y protones), como se sabe al momento de retirar un electrón de valencia por
+acción de la energía, el atomo se queda con una carga neta positiva y se transfoma en un ion positivo. Sin embargo al momento de que un átomo 
+adquiere un electrón de extra en su capa externa, tiene una carga neta negativa y se vuelve un ion negativo. La cantidad de energía necesaria para
+liberar un electrón de valencia se ve relacionado con el numero de electrones presentes en la capa externa. Un átomo tiene un máximo de 8 electrones
+de valencia, mientras más completa esté la capa externa, más estable es el atomo y por consiguiente se requiere más energía para liberar un electrón.
+
+c) Voltaje, Corriente y Resistencia
 
 
 
 
+                                   
 
 
 
