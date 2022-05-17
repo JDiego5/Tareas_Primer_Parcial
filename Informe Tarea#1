@@ -213,13 +213,70 @@ existe pero mediante las practicas podemos acercarnos a una. Las fuentes de volt
 
 Tipos de fuentes: 
 
-Bateria: Es un tipo de fuente de voltaje, la cual consiste en convertir la energia química en energía eléctrica. Una bateria esta compuesta de una o
-         más celdas electroquímicas, una celda esta formada por 4 componentes: un electrodo negativo, un electrodo positivo, un electrolito y un separador 
-         poroso. El electrodo positivo tiene deficiencia de electrones debido a las reacciones químicas, en cambio un electrodo negativo tiene en demacía 
-         a su vez por las reacciones químicas. El electrolito en cambio tiene 
+Batería: Es un tipo de fuente de voltaje, la cual consiste en convertir la energía química en energía eléctrica. Una batería está compuesta de una o
+         más celdas electroquímicas, una celda está formada por 4 componentes: un electrodo negativo, un electrodo positivo, un electrolito y un separador 
+         poroso. El electrodo positivo tiene deficiencia de electrones debido a las reacciones químicas, en cambio un electrodo negativo tiene en demasía 
+         a su vez por las reacciones químicas. El electrolito en cambio nos da una forma de que fluya la carga entre los electrodos, por último el separador
+         aísla a los unos electrodos positivos y un electrodo negativo.
 
+Celdas solares: Esta basada en el efecto fotovoltaico, un proceso por el cual la energía luminosa se transforma directamente en energía eléctrica. Esta
+                compuesta de dos capas de diferentes tipos de materiales semiconductores para lograr formar una unión. Al momento de que una capa se expone 
+                a la luz, la mayoría de electrones adquieren la suficiente energía para desprenderse de sus átomos y lograr cruzar la unión.
 
+Generadores: Estos mecanismos poseen la capacidad de convertir la energía mecánica en energía eléctrica por medio de un principio llamado inducción 
+             electromagnética. Esto consiste en girar un conductor a través de un campo magnético, para que de este modo se produzca un voltaje que pasa por
+             el conductor.
+             
+Fuentes de potencia electrónica: Las fuentes de potencia electrónica convierten el voltaje de cada una de las tomas de corriente de pared en voltaje constante
+                                 de cd que está disponible a través de dos terminales.
+                                 
+Termopares: El termopar es una fuente de voltaje tipo termoeléctrica utilizada comúnmente para detectar temperatura, se forma por la unión de dos metales 
+            disimilares y su operación describe el voltaje generado en la unión de los metales como una función de la temperatura.  
 
+Sensores piezoeléctricos: Estos sensores actúan como fuentes de voltaje y están basados en el efecto piezoeléctrico, en el cual se genera voltaje cuando un 
+                           material piezoeléctrico es deformado mecánicamente por una fuerza externa. Se utilizan sensores piezoeléctricos en sensores de presión 
+                           de fuerza, acelerómetros, micrófonos, dispositivos ultrasónicos, y en muchas otras aplicaciones.
+
+La fuente de corriente
+                                 
+La fuente de corriente ideal: Una fuente de corriente ideal puede proporcionar una corriente constante para cualquier carga. Al igual que en el caso de una 
+                              fuente de voltaje, la fuente de corriente ideal no existe pero puede ser aproximada en la práctica.
+
+Fuentes de corriente reales: A las fuentes de potencia normalmente se les considera como fuentes de voltaje porque son la fuente más común que se encuentra en el 
+                             laboratorio. Sin embargo, también las fuentes de corriente pueden ser consideradas como un tipo de fuente de potencia.
+
+e) Resistores
+
+Es un componente diseñado específicamente para que tenga cierta cantidad de resistencia La aplicación principal de los resistores es limitar la corriente en un 
+circuito, dividir el voltaje, y, en ciertos casos, generar calor. Los tipos de resistores pueden ser colocados en dos categorías principales: fijos y variables.
+
+Resistores fijos: A) Estos están disponibles con una gran selección de valores de resistencia establecidos durante su fabricación y que no son fáciles de cambiar.
+                  Un tipo común de resistor fijo es el de composición de carbón, el cual está hecho con una mezcla de carbón finamente pulverizado, un relleno
+                  aislante, y un aglutinante de resina. 
+                  
+                  B) El “chip” resistor es otro tipo de resistor fijo y se encuentra en la categoría de componentes de tecnología de montaje superficial. Tiene la 
+                  ventaja de un tamaño muy pequeño para ensambles compactos.                             
+
+CÓDIGOS DE COLOR PARA LOS RESISTORES
+
+Los resistores fijos con tolerancias de valor del 5 o el 10% se codifican mediante cuatro bandas de color para indicar el valor de resistencia y la tolerancia.  
+El código de colores se lee como sigue:
+    1) La primera banda es el primer dígito del valor de resistencia. Si no está claro cuál es el extremo más cercano a una banda, inicie por el extremo que no 
+       comience con una banda de color oro o plata.
+    2) La segunda banda es el segundo dígito del valor de resistencia.
+    3) La tercer banda es el número de ceros que van después del segundo dígito, o el multiplicador.
+    4) La cuarta banda indica la tolerancia en porcentaje y, por lo general, es de color oro o plata.
+
+CÓDIGOS DE ROTULADO PARA RESISTORES
+
+No todos los tipos de resistores se codifican con bandas de color. Muchos, incluidos los de montaje superficial, utilizan marcado tipográfico para indicar su 
+valor de resistencia y su tolerancia. Estos códigos de rotulado se componen de puros números (numéricos) o de una combinación de números y letras (alfanuméricos).
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
 
 
 
