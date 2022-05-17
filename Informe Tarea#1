@@ -291,6 +291,59 @@ Dos tipos de resistores automáticamente variables: A) Un termistor es un tipo d
                                                    B) La resistencia de una celda fotoconductora cambia con un cambio de la intensidad luminosa. Esta celda también 
                                                     tiene un coeficiente de temperatura negativo.
 
+f) EL CIRCUITO ELÉCTRICO.
+
+Un circuito eléctrico básico es una agrupación ordenada de componentes físicos que utilizan voltaje, corriente y resistencia para realizar alguna función útil. 
+Un circuito se compone de una fuente de voltaje, una carga, y una trayectoria para la corriente que haya entre la fuente y la carga. Un ejemplo sería: La batería es 
+la fuente de voltaje, la lámpara es la carga aplicada a la batería por- que absorbe corriente de ésta, y los dos alambres proporcionan la trayectoria necesaria para 
+que la corriente vaya desde la terminal positiva de la batería hasta la lámpara y de regreso a la terminal negativa de la batería.
+
+PROTECCIÓN Y CONTROL DE LA CORRIENTE EN UN CIRCUITO.
+
+Interruptores mecánicos: Para controlar la apertura o el cierre de circuitos eléctricos, por lo general se utilizan interruptores. Por ejemplo, para encender o apagar
+                         una lámpara se utiliza un interruptor. En un interruptor, el término polo se refiere al brazo móvil y vía indica el número de contactos que 
+                         son afectados.
+
+Interruptores de semiconductor: Los transistores se utilizan ampliamente como interruptores en muchas aplicaciones. El transistor puede ser utilizado como el 
+                                equivalente de un interruptor de vía y polo únicos. Se puede abrir o cerrar la trayectoria de un circuito controlando el estado 
+                                del transistor.
+
+Dispositivos de protección: Se utilizan fusibles y cortacircuitos para crear deliberadamente un circuito abierto cuando la corriente excede una cantidad específica 
+                            de amperes a causa de un funcionamiento defectuoso u otra condición anormal presente en un circuito.
+                            La diferencia básica entre un fusible y un cortacircuito radica en que, cuando un fusible se “funde”, debe ser reemplazado; pero cuando 
+                            un cortacircuito se abre, puede ser repuesto o vuelto a utilizar repetidamente. Estos dos dispositivos protegen a un circuito contra daños 
+                            causados por corriente excesiva o evitan una condición peligrosa creada por el sobrecalentamiento de alambres y otros componentes cuando 
+                            la corriente es demasiada.
+
+Alambres: Los alambres son la forma más común de material conductor utilizado. Estos alambres varían en diámetro y son ordenados con arreglo a números de calibre 
+          estándar. Conforme el número de calibre se incrementa, el diámetro del alambre disminuye. El tamaño de un alambre también se especifica en función de su 
+          área de sección transversal. Formula: 
+          
+                                              A = d^2
+
+          donde A es el área de sección transversal en mils circulares y d es el diámetro en mils.
+
+Resistencia de un alambre: Aunque el alambre de cobre conduce electricidad extremadamente bien, sigue teniendo algo de resistencia, como todos los conductores. 
+                           La resistencia de un alambre depende de tres características físicas: (a) tipo de material, (b) longitud del alambre, y (c) área de 
+                           sección transversal.
+                                    pl
+                             R =  ------
+                                    A
+
+                           Para cada material, r es un valor constante a una temperatura dada. La fórmula para la resistencia de un alambre de longitud l y área 
+                           de sección transversal A.
+                           
+Tierra: En circuitos eléctricos, la tierra es el punto de referencia. El término tierra se originó a partir del hecho de que el conductor de un circuito normalmente
+        se conectaba a un barra de metal de 8 pies de largo enterrada en el suelo. Otro tipo de tierra se denomina tierra de referencia. Los voltajes siempre se 
+        especifican con respecto a otro punto. Si dicho punto no se establece explícitamente, se entiende que es la tierra de referencia.
+
+
+
+
+
+
+
+
 
 
 
