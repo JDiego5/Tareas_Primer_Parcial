@@ -26,12 +26,12 @@ En el Sistema Internacional (SI), podemos encontrar que consta de siete unidades
 unidades complementarias. En su totalidad las mediciones que se realicen pueden ser de una combinación
 de unidades tanto fundamentales como complementarias. Dentro de las mediciones eléctricas podemos
 encontrar al ampere como unidad fundamental, es utilizada para medir la corriente eléctrica. El resto
-de unidades eléctricas y magnéticas son utilizadas por varias combinaciones de unidades fundamentales.
+de unidades eléctricas y magnéticas son utilizadas por varias combinaciones de unidades fundamentales. (Anexo 1.1)
 
 Para poder identificar las diferentes unidades y cantidades, se representan mediante símbolos literales. 
 Es decir, se utiliza un símbolo para conocer la cantidad y otro diferente para conocer la unidad de medición
 de dicha cantidad. Un ejemplo puede ser la potencia, que se representa con la letra P y el watt, que
-es la unidad de medición de la potencia y se representa con la letra W.
+es la unidad de medición de la potencia y se representa con la letra W. (Anexo 1.2)
 
 1.2) Notacion Científica.
 
@@ -43,7 +43,7 @@ potencia, indica la cantidad de lugares que se mueve si es exponente positivo se
 negativo se mueve a la izquierda. 
 
 Una gran ventaja de la notación científica es la posibilidad de realizar operaciones básicas, ya sea de números o muy 
-grande o muy pequeños.
+grande o muy pequeños. (Anexo 1.3)
 
 1.3) Notacion de ingenieria.
 
@@ -67,7 +67,9 @@ Prefijos metricos   |Simbolo  | Potencia de diez | Valor                   |
        mega         |    M    |      10^6        |  Un millón              |
        giga         |    G    |      10^9        |  Un mil millones        |
        tera         |    T    |      10^12       |  Un billón              |
-
+       
+ (Anexo 1.4)      
+ 
 1.4) Conversion de unidades.
 
 En muchas ocasiones se nos presenta el problema de convertir la cantidad de una unidad con un prefijo métrico específico a otro,
@@ -91,6 +93,8 @@ NUMERO ATÓMICO
 
 El número atómico es igual al número de protones que tiene presentes en el núcleo del átomo. Por ejemplo, el número atómico del hidrógeno 
 es el 1 y el del helio es el 2, pero en estado normal, todos los átomos de un elemento dado tienen el mismo número de electrones y protones.
+
+(Anexo 2.1)
 
 CAPAS, ÓRITAS Y NIVELES DE ENERGÍA
 
@@ -127,6 +131,8 @@ Semiconductores: Están clasificados por debajo de los conductores, debido a que
 Aislantes: Estos se caracterizan por tener deficiencia en pasar la corriente eléctrica, generalmente los aislantes son usados para evitar
            la corriente donde no es deseada. Otra característica destacable es que tienen muy pocos electrones libres y tienen más de cuatro
            electrones de valencia.
+    
+(Anexo 2.2)
            
 2.2) Carga Eléctrica
 
@@ -147,6 +153,8 @@ acción de la energía, el átomo se queda con una carga neta positiva y se tran
 adquiere un electrón de extra en su capa externa, tiene una carga neta negativa y se vuelve un ion negativo. La cantidad de energía necesaria para
 liberar un electrón de valencia se ve relacionado con el número de electrones presentes en la capa externa. Un átomo tiene un máximo de 8 electrones
 de valencia, mientras más completa esté la capa externa, más estable es el átomo y por consiguiente se requiere más energía para liberar un electrón.
+
+(Anexo 2.3)
 
 2.3) Voltaje, Corriente y Resistencia
 
@@ -188,6 +196,8 @@ Donde:
 Un ampere (1A) es la cantidad de corriente que existe cuando cierto número de electrones, cuya carga total es de un coulomb(1C), pasa por un área de
 sección transversal dada en un segundo (1s)
 
+(Anexo 2.4)
+
 Resistencia
 
 Cuando se tiene un material existe corriente los electrones libres se mueven en este y de vez en cuando chocan con átomos, dichos choques hacen que
@@ -210,6 +220,8 @@ La unidad de la conductancia es el siemens, abreviada por la S.
 
 Una fuente de voltaje ideal puede proporcionar un voltaje constante para cualquier corriente requerida en un circuito. Una fuente de voltaje ideal no 
 existe pero mediante las practicas podemos acercarnos a una. Las fuentes de voltaje pueden ser de dos tipos, de cd o de ca. 
+
+(Anexo 2.5)
 
 Tipos de fuentes: 
 
@@ -257,6 +269,8 @@ Resistores fijos: A) Estos están disponibles con una gran selección de valores
                   B) El “chip” resistor es otro tipo de resistor fijo y se encuentra en la categoría de componentes de tecnología de montaje superficial. Tiene la 
                   ventaja de un tamaño muy pequeño para ensambles compactos.                             
 
+(Anexo 2.6)
+
 CÓDIGOS DE COLOR PARA LOS RESISTORES (FIJOS)
 
 Los resistores fijos con tolerancias de valor del 5 o el 10% se codifican mediante cuatro bandas de color para indicar el valor de resistencia y la tolerancia.  
@@ -275,9 +289,13 @@ valor de resistencia y su tolerancia. Estos códigos de rotulado se componen de 
 Rotulación numérica: Los primeros dos dígitos proporcionan los primeros dos dígitos del valor de resistencia, y el tercer dígito corresponde al multiplicador 
                         o cantidad de ceros que van después de los primeros dos dígitos.
                      
+(Anexo 2.8)
+
 Rotulación alfanumérica: Este tipo de rótulo se compone, en general, de sólo tres dígitos o de dos o tres dígitos y una de las letras R, K o M. La letra se utiliza
                          para indicar el multiplicador, y su posición señala el lugar del punto decimal. La letra R significa un multiplicador de 1, la K indica un 
                          multiplicador de 1000 y la M indica un multiplicador de 1,000,000.
+
+(Anexo 2.9)
 
 Resistores variables
 
@@ -290,6 +308,8 @@ Dos tipos de resistores automáticamente variables: A) Un termistor es un tipo d
                                                     cambia directamente con la temperatura.
                                                    B) La resistencia de una celda fotoconductora cambia con un cambio de la intensidad luminosa. Esta celda también 
                                                     tiene un coeficiente de temperatura negativo.
+                                                    
+(Anexo 3.0)
 
 2.6) EL CIRCUITO ELÉCTRICO.
 
@@ -297,6 +317,8 @@ Un circuito eléctrico básico es una agrupación ordenada de componentes físic
 Un circuito se compone de una fuente de voltaje, una carga, y una trayectoria para la corriente que haya entre la fuente y la carga. Un ejemplo sería: La batería es 
 la fuente de voltaje, la lámpara es la carga aplicada a la batería por- que absorbe corriente de ésta, y los dos alambres proporcionan la trayectoria necesaria para 
 que la corriente vaya desde la terminal positiva de la batería hasta la lámpara y de regreso a la terminal negativa de la batería.
+
+(Anexo 3.1) 
 
 PROTECCIÓN Y CONTROL DE LA CORRIENTE EN UN CIRCUITO.
 
@@ -314,6 +336,8 @@ Dispositivos de protección: Se utilizan fusibles y cortacircuitos para crear de
                             un cortacircuito se abre, puede ser repuesto o vuelto a utilizar repetidamente. Estos dos dispositivos protegen a un circuito contra daños 
                             causados por corriente excesiva o evitan una condición peligrosa creada por el sobrecalentamiento de alambres y otros componentes cuando 
                             la corriente es demasiada.
+
+(Anexo 3.2)
 
 Alambres: Los alambres son la forma más común de material conductor utilizado. Estos alambres varían en diámetro y son ordenados con arreglo a números de calibre 
           estándar. Conforme el número de calibre se incrementa, el diámetro del alambre disminuye. El tamaño de un alambre también se especifica en función de su 
@@ -333,6 +357,8 @@ Resistencia de un alambre: Aunque el alambre de cobre conduce electricidad extre
                            Para cada material, r es un valor constante a una temperatura dada. La fórmula para la resistencia de un alambre de longitud l y área 
                            de sección transversal A.
                            
+(Anexo 3.3)
+
 Tierra: En circuitos eléctricos, la tierra es el punto de referencia. El término tierra se originó a partir del hecho de que el conductor de un circuito normalmente
         se conectaba a un barra de metal de 8 pies de largo enterrada en el suelo. Otro tipo de tierra se denomina tierra de referencia. Los voltajes siempre se 
         especifican con respecto a otro punto. Si dicho punto no se establece explícitamente, se entiende que es la tierra de referencia.
@@ -346,10 +372,40 @@ en el cual se puede elegir qué cantidad específica se va a medir seleccionando
 Símbolos de medidores: El símbolo de medidor digital se utiliza cuando en un circuito se tienen que indicar valores específicos. El símbolo de medidor de gráfica 
                        de barras y en ocasiones el de medidor analógico se utilizan para ilustrar la operación de un circuito cuando mediciones relativas o cambios 
                        de cantidades, en lugar de valores específicos, tienen que ser descritos.
-                     
-Medición de corriente: 
 
+Medicion de Corriente: La parte (a) muestra un circuito simple en el cual la corriente que pasa por el resistor tiene que ser medida. Primero hay que asegurarse de 
+                       que el ajuste del intervalo del amperímetro es mayor que la corriente esperada, y entonces se conecta el amperímetro en la trayectoria de la
+                       corriente abriendo primero el circuito, como indica la parte (b).                  
 
+(Anexo 3.4)
+
+Medicion de Voltaje: Para medir voltaje, el voltímetro se conecta a través del componente para el cual el voltaje ha de ser medido. Tal conexión es una conexión en 
+                     paralelo. La terminal negativa del medidor se conecta al lado negativo del circuito, y la terminal positiva se conecta al lado positivo del 
+                     circuito. La figura muestra un voltímetro conectado para medir el voltaje a través del resistor.
+
+(Anexo 3.5)
+
+Medicion de resistencia: Para medir la resistencia, primero se corta la energía eléctrica y se desconecta uno o ambos extremos del resistor del circuito; luego se 
+                         conecta el ohmmetro a través del resistor. Este procedimiento se indica en la figura.
+
+(Anexo 3.6)
+
+2.8) SEGURIDAD ELÉCTRICA
+
+La posibilidad de recibir un choque eléctrico o una quemadura siempre está presente, de modo que siempre se debe obrar con precaución. Usted se convierte en una }
+trayectoria para la corriente cuando se aplica voltaje a través de dos puntos de su cuerpo, y la corriente produce choque eléctrico.
+
+choque eléctrico: Cuando un punto del cuerpo se pone en contacto con un voltaje y otro punto entra en contacto con un voltaje diferente o con tierra, tal como un 
+                  chasis metálico, circulará corriente por el cuerpo de un punto al otro. La trayectoria que tome la corriente dependerá de los puntos por los 
+                  cuales ocurra el voltaje.
+
+Efectos de la corriente en el cuerpo humano: La cantidad de corriente depende del voltaje y de la resistencia. El cuerpo humano tiene una resistencia que depende 
+                                             de muchos factores, los cuales incluyen la masa corporal, la humedad de la piel, y los puntos del cuerpo que entran
+                                             en contacto con un potencial de voltaje.
+
+Resistencia corporal: La resistencia del cuerpo humano es típicamente de 10 a 50 k y depende de los dos puntos entre los cuales se mida.
+
+(Anexo 3.7)
 
 
 
