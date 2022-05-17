@@ -257,7 +257,7 @@ Resistores fijos: A) Estos están disponibles con una gran selección de valores
                   B) El “chip” resistor es otro tipo de resistor fijo y se encuentra en la categoría de componentes de tecnología de montaje superficial. Tiene la 
                   ventaja de un tamaño muy pequeño para ensambles compactos.                             
 
-CÓDIGOS DE COLOR PARA LOS RESISTORES
+CÓDIGOS DE COLOR PARA LOS RESISTORES (FIJOS)
 
 Los resistores fijos con tolerancias de valor del 5 o el 10% se codifican mediante cuatro bandas de color para indicar el valor de resistencia y la tolerancia.  
 El código de colores se lee como sigue:
@@ -267,16 +267,33 @@ El código de colores se lee como sigue:
     3) La tercer banda es el número de ceros que van después del segundo dígito, o el multiplicador.
     4) La cuarta banda indica la tolerancia en porcentaje y, por lo general, es de color oro o plata.
 
-CÓDIGOS DE ROTULADO PARA RESISTORES
+CÓDIGOS DE ROTULADO PARA RESISTORES (FIJOS)
 
 No todos los tipos de resistores se codifican con bandas de color. Muchos, incluidos los de montaje superficial, utilizan marcado tipográfico para indicar su 
 valor de resistencia y su tolerancia. Estos códigos de rotulado se componen de puros números (numéricos) o de una combinación de números y letras (alfanuméricos).
                                  
-                                 
-                                 
-                                 
-                                 
-                                 
+Rotulación numérica: Los primeros dos dígitos proporcionan los primeros dos dígitos del valor de resistencia, y el tercer dígito corresponde al multiplicador 
+                        o cantidad de ceros que van después de los primeros dos dígitos.
+                     
+Rotulación alfanumérica: Este tipo de rótulo se compone, en general, de sólo tres dígitos o de dos o tres dígitos y una de las letras R, K o M. La letra se utiliza
+                         para indicar el multiplicador, y su posición señala el lugar del punto decimal. La letra R significa un multiplicador de 1, la K indica un 
+                         multiplicador de 1000 y la M indica un multiplicador de 1,000,000.
+
+Resistores variables
+
+Los resistores variables están diseñados de modo que sus valores de resistencia sean fáciles de cambiar mediante un ajuste manual o automático. Dos usos básicos de 
+los resistores variables son dividir el voltaje y controlar la corriente. El resistor variable utilizado para dividir voltaje se llama potenciómetro. El resistor 
+variable empleado para controlar corriente se denomina reóstato.
+
+Dos tipos de resistores automáticamente variables: A) Un termistor es un tipo de resistor variable sensible a la temperatura. Cuando su coeficiente de temperatura es 
+                                                    negativo, la resistencia cambia inversamente con la temperatura. Cuando su coeficiente es positivo, la resistencia 
+                                                    cambia directamente con la temperatura.
+                                                   B) La resistencia de una celda fotoconductora cambia con un cambio de la intensidad luminosa. Esta celda también 
+                                                    tiene un coeficiente de temperatura negativo.
+
+
+
+
 
 
 
