@@ -337,8 +337,17 @@ Tierra: En circuitos eléctricos, la tierra es el punto de referencia. El térmi
         se conectaba a un barra de metal de 8 pies de largo enterrada en el suelo. Otro tipo de tierra se denomina tierra de referencia. Los voltajes siempre se 
         especifican con respecto a otro punto. Si dicho punto no se establece explícitamente, se entiende que es la tierra de referencia.
 
+g) MEDICIONES DE CIRCUITO BÁSICAS.
 
+En el trabajo electrónico se requieren comúnmente mediciones de voltaje, corriente y resistencia. El instrumento utilizado para medir voltaje es un voltímetro, 
+para medir corriente se usa un amperímetro y para la resistencia un ohmmetro. Estos tres instrumentos se combinan a menudo en un solo mecanismo llamado multímetro, 
+en el cual se puede elegir qué cantidad específica se va a medir seleccionando la función apropiada mediante un interruptor.
 
+Símbolos de medidores: El símbolo de medidor digital se utiliza cuando en un circuito se tienen que indicar valores específicos. El símbolo de medidor de gráfica 
+                       de barras y en ocasiones el de medidor analógico se utilizan para ilustrar la operación de un circuito cuando mediciones relativas o cambios 
+                       de cantidades, en lugar de valores específicos, tienen que ser descritos.
+                     
+Medición de corriente: 
 
 
 
