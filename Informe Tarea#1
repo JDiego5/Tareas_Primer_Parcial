@@ -142,18 +142,83 @@ La carga total (Q), dada en coulomb, de un numero dado de electrones esta dado p
 
 CARGA POSITIVA Y CARGA NEGATIVA
 
-Consideremos un atomo neutro (que tiene el mismo número de electrones y protones), como se sabe al momento de retirar un electrón de valencia por
-acción de la energía, el atomo se queda con una carga neta positiva y se transfoma en un ion positivo. Sin embargo al momento de que un átomo 
+Consideremos un átomo neutro (que tiene el mismo número de electrones y protones), como se sabe al momento de retirar un electrón de valencia por
+acción de la energía, el átomo se queda con una carga neta positiva y se transforma en un ion positivo. Sin embargo al momento de que un átomo 
 adquiere un electrón de extra en su capa externa, tiene una carga neta negativa y se vuelve un ion negativo. La cantidad de energía necesaria para
-liberar un electrón de valencia se ve relacionado con el numero de electrones presentes en la capa externa. Un átomo tiene un máximo de 8 electrones
-de valencia, mientras más completa esté la capa externa, más estable es el atomo y por consiguiente se requiere más energía para liberar un electrón.
+liberar un electrón de valencia se ve relacionado con el número de electrones presentes en la capa externa. Un átomo tiene un máximo de 8 electrones
+de valencia, mientras más completa esté la capa externa, más estable es el átomo y por consiguiente se requiere más energía para liberar un electrón.
 
 c) Voltaje, Corriente y Resistencia
 
+Voltaje
+
+Gracias a lo que hemos visto, se conoce que existe una fuerza de atracción entre una carga positiva y otra negativa. Pero se debe de aplicar una cierta
+cantidad de energía, en forma de trabajo, para poder separar estas cargas a una determinada distancia. Todas las cargas opuestas tienen una energía
+potencial a causa de la separación, por lo que la diferencia en la energía potencial por carga es la diferencia de potencia o voltaje. En circuitos 
+eléctricos, el voltaje es la fuerza propulsora y es lo que establece la corriente. La unidad del voltaje es el volt, y se simboliza mediante la letra V.
+La fórmula es:
+
+                                    W
+                             v = ------
+                                    Q
+Donde:
+                         V = Voltaje en volts (V)
+                         W = energia en Joules (J)
+                         Q = carga en coulomb (C)
+
+Un volt es la diferencia de potencial entre dos puntos cuando se utiliza un Joule de energía para trasladar un coulomb de carga en un punto a otro.
+
+Corriente
+
+En un material conductor o semiconductor se establece el voltaje, un extremo del material se vuelve positivo y el otro negativo, la fuerza repulsiva 
+que produce el voltaje negativo hace que los electrones libres se muevan hacia la derecha, por lo que la fuerza de atracción producida por el voltaje
+positiva tira de los electrones libres hacia la derecha. El resultado es un movimiento neto de los electrones libres desde el extremo negativo al
+extremo positivo. El movimiento de dichos electrones de un extremo a otro se conoce como la corriente eléctrica, simbolizada con la letra I.
+
+Por lo que la corriente eléctrica es la velocidad que lleva el flujo de la carga. Su ecuación es:
+
+                                       Q
+                                I =  -----
+                                       t
+Donde: 
+                            I = corriente en Amperes (A)
+                            Q = Carga en coulombs (C)
+                            t = tiempo en segundos (s)
+
+Un ampere (1A) es la cantidad de corriente que existe cuando cierto número de electrones, cuya carga total es de un coulomb(1C), pasa por un área de
+sección transversal dada en un segundo (1s)
+
+Resistencia
+
+Cuando se tiene un material existe corriente los electrones libres se mueven en este y de vez en cuando chocan con átomos, dichos choques hacen que
+los electrones pierdan algo de su energía con lo cual se restringe su movimiento. Por lo que es proporcional, es decir entre más colisiones exista más 
+se restringe el flujo de electrones. Esta restricción varia y depende del tipo de material. La resistencia es lo contrario a la corriente, y esta se
+expresa en ohm, simbolizada mediante la letra griega omega (Ω). 
+
+Existe un ohm (1Ω) de resistencia si hay un ampere (1A) de corriente en un material cuando se aplica un volt (1V) al mismo.
+
+Conductancia
+
+Este es el recíproco de la resistencia, simbolizado por la letra G y es una medida de facilidad de con que se establece la corriente. La fórmula es:
+ 
+                                    1
+                               G = ---
+                                    R
+La unidad de la conductancia es el siemens, abreviada por la S. 
+
+d) Fuentes de Voltaje.
+
+Una fuente de voltaje ideal puede proporcionar un voltaje constante para cualquier corriente requerida en un circuito. Una fuente de voltaje ideal no 
+existe pero mediante las practicas podemos acercarnos a una. Las fuentes de voltaje pueden ser de dos tipos, de cd o de ca. 
+
+Tipos de fuentes: 
+
+Bateria: Es un tipo de fuente de voltaje, la cual consiste en convertir la energia química en energía eléctrica. Una bateria esta compuesta de una o
+         más celdas electroquímicas, una celda esta formada por 4 componentes: un electrodo negativo, un electrodo positivo, un electrolito y un separador 
+         poroso. El electrodo positivo tiene deficiencia de electrones debido a las reacciones químicas, en cambio un electrodo negativo tiene en demacía 
+         a su vez por las reacciones químicas. El electrolito en cambio tiene 
 
 
-
-                                   
 
 
 
